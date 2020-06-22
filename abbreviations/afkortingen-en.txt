@@ -1,0 +1,25 @@
+﻿nr: number
+asap: as soon as possible
+avg: average
+rv: front right
+ra: right behind
+la: left behind
+lv: front left
+dr: pregnant
+cc: cubic centimeter
+ml: milliliter
+l: liter
+fv: calved
+ampiclox: ampicillin
+ca-bolus: calcium boluses
+vit: vitamin
+e.coli.: escherichia coli
+e.coli : escherichia coli
+ecoli: escherichia coli
+temp: temperature
+temp.: temperature
+lda: left displaced abomasum
+l.d.a.: left displaced abomasum
+rda: right displaced abomasum
+r.d.a.: right displaced abomasum
+linco: lincospectin

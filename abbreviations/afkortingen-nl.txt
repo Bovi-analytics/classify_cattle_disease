@@ -1,0 +1,22 @@
+﻿rv: rechts voor
+ra: rechts achter
+la: links achter
+lv: links voor
+dr: dracht
+cc: kubieke centimeter
+ml: milliliter
+l: liter
+fv: vers gekalfd
+kg: kilogram
+ca-bolus: calcium bolussen
+vit: vitamine
+e.coli.: escherichia coli
+e.coli: escherichia coli
+ecoli: escherichia coli
+temp: temperatuur
+temp.: temperatuur
+lda: links verplaatste abomasum
+l.d.a.: links verplaatste abomasum
+rda: rechts verplaatste abomasum
+r.d.a.: links verplaatste abomasum
+linco: lincospectin

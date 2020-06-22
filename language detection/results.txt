@@ -1,0 +1,290 @@
+Rank collision
+
+unigrams
+
+Good:  98
+False  127
+Accuracy  0.43555555555555553
+
+bigrams
+n=300
+
+Good:  98
+False  127
+Accuracy  0.43555555555555553
+
+n = 600
+Good:  102
+False  123
+Accuracy  0.4533333333333333
+
+n = 1200
+Good:  102
+False  123
+Accuracy  0.4533333333333333
+
+trigrams
+
+n = 300
+
+Good:  109
+False  116
+Accuracy  0.48444444444444446
+
+n = 600
+
+Good:  115
+False  110
+Accuracy  0.5111111111111111
+
+n = 1200
+Good:  122
+False  103
+Accuracy  0.5422222222222223
+
+n = 2000
+Good:  123
+False  102
+Accuracy  0.5466666666666666
+
+4-ngrams
+
+n = 300
+Good:  90
+False  135
+Accuracy  0.4
+
+n=600
+Good:  102
+False  123
+Accuracy  0.4533333333333333
+
+
+n=1200
+Good:  113
+False  112
+Accuracy  0.5022222222222222
+
+n=2000
+Good:  125
+False  100
+Accuracy  0.5555555555555556
+
+5-grams
+n=300
+Good:  82
+False  143
+Accuracy  0.36444444444444446
+
+n=600
+Good:  89
+False  136
+Accuracy  0.39555555555555555
+
+n=1200
+Good:  98
+False  127
+Accuracy  0.43555555555555553
+
+n=2000
+Good:  106
+False  119
+Accuracy  0.4711111111111111
+
+
+LANGID
+Good:  205
+False  20
+Accuracy  0.9111111111111111
+
+LANGDETECT
+Good:  195
+False  30
+Accuracy  0.8666666666666667
+
+
+NAIVE BAYES
+n=1 f=300
+Good:  155
+False  70
+Accuracy  0.6888888888888889
+
+n=2 f=300
+Good:  171
+False  54
+Accuracy  0.76
+
+n=2 f=600
+Good:  194
+False  31
+Accuracy  0.8622222222222222
+
+n=2 f=1200
+Good:  199
+False  26
+Accuracy  0.8844444444444445
+
+n=2 f=2000
+Good:  198
+False  27
+Accuracy  0.88
+
+n=3 f=300
+Good:  169
+False  56
+Accuracy  0.7511111111111111
+
+n=3 f=600
+Good:  177
+False  48
+Accuracy  0.7866666666666666
+
+n=3 f=1200
+Good:  184
+False  41
+Accuracy  0.8177777777777778
+
+n=3 f=2000
+Good:  182
+False  43
+Accuracy  0.8088888888888889
+
+BERNOULLI BAYES
+n1
+Good:  154
+False  71
+Accuracy  0.6844444444444444
+
+n=2 f=300
+Good:  160
+False  65
+Accuracy  0.7111111111111111
+
+n=2 f=600
+Good:  170
+False  55
+Accuracy  0.7555555555555555
+
+n=2 f=1200
+Good:  180
+False  45
+Accuracy  0.8
+
+n=2 f=2000
+Good:  177
+False  48
+Accuracy  0.7866666666666666
+
+n=3 f=300
+Good:  168
+False  57
+Accuracy  0.7466666666666667
+
+n=3 f=600
+Good:  169
+False  56
+Accuracy  0.7511111111111111
+
+n=3 f=1200
+Good:  175
+False  50
+Accuracy  0.7777777777777778
+
+n=3 f=2000
+Good:  175
+False  50
+Accuracy  0.7777777777777778
+
+LOGISTIC REGRESSION
+n1
+Good:  160
+False  65
+Accuracy  0.7111111111111111
+
+n=2 f=300
+Good:  200
+False  25
+Accuracy  0.8888888888888888
+
+n=2 f=600
+Good:  200
+False  25
+Accuracy  0.8888888888888888
+
+n=2 f=1200
+Good:  205
+False  20
+Accuracy  0.9111111111111111
+
+n=2 f=2000
+Good:  205
+False  20
+Accuracy  0.9111111111111111
+
+n=3 f=300
+Good:  201
+False  24
+Accuracy  0.8933333333333333
+
+n=3 f=600
+Good:  204
+False  21
+Accuracy  0.9066666666666666
+
+n=3 f=1200
+Good:  206
+False  19
+Accuracy  0.9155555555555556
+
+n=3 f=2000
+Good:  200
+False  25
+Accuracy  0.8888888888888888
+
+
+SGD
+
+n=1
+Good:  154
+False  71
+Accuracy  0.6844444444444444
+
+n=2 f=300
+Good:  201
+False  24
+Accuracy  0.8933333333333333
+
+n=2 f=600
+Good:  207
+False  18
+Accuracy  0.92
+
+n=2 f=1200
+Good:  209
+False  16
+Accuracy  0.9288888888888889
+
+n=2 f=2000
+Good:  202
+False  23
+Accuracy  0.8977777777777778
+
+n=3 f=300
+Good:  196
+False  29
+Accuracy  0.8711111111111111
+
+n=3 f=600
+Good:  203
+False  22
+Accuracy  0.9022222222222223
+
+n=3 f=1200
+Good:  205
+False  20
+Accuracy  0.9111111111111111
+
+n=3 f=2000
+Good:  202
+False  23
+Accuracy  0.8977777777777778

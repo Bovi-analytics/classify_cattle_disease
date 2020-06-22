@@ -1,0 +1,21 @@
+﻿l: litre
+ml: millilitre
+fv: fraiche velee
+kg: kilogramme
+cc: centimètre cube
+ra: arrière droit
+rv: avant droit
+la: arrière gauche
+lv: avant gauche
+ca-bolus: calcium bolus
+vit: vitamine
+e.coli.: escherichia coli
+e.coli : escherichia coli
+ecoli: escherichia coli
+temp: température
+temp.: température
+lda: caillette déplacée gauche
+l.d.a.: caillette déplacée gauche
+rda: caillette déplacée à droite
+r.d.a.: caillette déplacée à droite
+linco: lincospectin

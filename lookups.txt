@@ -1,0 +1,174 @@
+Unsupervised LDA
+
+lda_category_n7w7p250d6i10_lookup = {
+    0: [5, 6, 8, 3],
+    1: [13],
+    2: [1],
+    3: [2, 4, 7],
+    4: [9, 10],
+    5: [13],
+    6: [11, 12]
+}
+
+lda_category_n8w7p250_lookup = {
+    0: [1],
+    1: [3, 8],
+    2: [9, 12],
+    3: [11, 12],
+    4: [4, 7],
+    5: [13],
+    6: [8, 5, 6],
+    7: [2, 4, 7]
+}
+
+lda_category_n11w7p250d5_lookup = {
+    0: [1],
+    1: [13],
+    2: [3, 8],
+    3: [11],
+    4: [13],
+    5: [9],
+    6: [11],
+    7: [12],
+    8: [2,4,7],
+    9: [5,6],
+    10: [8]
+}
+
+lda_category_n9w7p250d6_lookup = {
+    0: [2, 4, 7, 9, 13],
+    1: [13],
+    2: [2, 4, 7],
+    3: [3],
+    4: [12],
+    5: [1],
+    6: [5,6,9],
+    7: [8],
+    8: [11, 12]
+}
+
+lda_category_n13w7p250d6_lookup = {
+    0: [5,6,8],
+    1: [9,12],
+    2: [10],
+    3: [3, 11],
+    4: [2,4,7],
+    5: [5,6],
+    6: [8],
+    7: [13],
+    8: [],
+    9: [1],
+    10: [],
+    11: [13],
+    12: [11, 12]
+}
+
+Supervised L-LDA
+
+lookup_thirteen = {
+    "Difficult Calving": [1],
+    "Retained Placenta": [2],
+    "Hypocalcemia": [3],
+    "Metritis": [4],
+    "Displaced Abomasum": [5],
+    "Displaced Abomasum": [6],
+    "Endometritis": [7],
+    "Ketosis": [8],
+    "Pneumonia": [9],
+    "Enteritis": [10],
+    "Traumatic Reticuloperitonitis": [11],
+    "Peritonitis": [12],
+    "Mastitis": [13],
+    "Nothing": []
+}
+
+lookup_eleven = {
+    "Difficult calving": [1],
+    "Uterus problems": [2,4,7],
+    "Hypocalcemia": [3],
+    "Ketosis": [8],
+    "Displaced Abomasum": [5,6],
+    "Enteritis": [10],
+    "Peritonitis": [12],
+    "Mastitis": [13],
+    "Pneumonia": [9],
+    "Traumatic Reticuloperitonitis": [11],
+    "Nothing": []    
+}
+
+lookup_eight = {
+    "Difficult calving": [1],
+    "Uterus problems": [2,4,7],
+    "Hypocalcemia and Ketosis": [3,8],
+    "Intestine problems": [5,6,10],
+    "Mastitis": [13],
+    "Pneumonia": [9],
+    "Peritonitis": [11, 12],
+    "Nothing": []
+}
+
+lookup_seven = {
+    "Calving problems": [1,2,3,8],
+    "Uterus problems": [2,4,7],
+    "Mastitis": [13],
+    "Intestine problems": [5,6,10],
+    "Peritonitis": [11, 12],
+    "Pneumonia": [9],
+    "Nothing": []
+}
+
+
+
+Classical classifiers
+
+lookup_thirteen = {
+    "Difficult calving": [1],
+    "Retained placenta": [2],
+    "Hypocalcemia": [3],
+    "Metritis": [4],
+    "Displaced Abomasum": [5],
+    "Displaced Abomasum": [6],
+    "Endometritis": [7],
+    "Ketosis": [8],
+    "Pneumonia": [9],
+    "Enteritis": [10],
+    "Traumatic Reticuloperitonitis": [11],
+    "Peritonitis": [12],
+    "Mastitis": [13],
+    "Nothing": []
+}
+
+lookup_eleven = {
+    "Difficult calving": [1],
+    "Uterus problems": [2,4,7],
+    "Hypocalcemia": [3],
+    "Ketosis": [8],
+    "Displaced Abomasum": [5,6],
+    "Enteritis": [10],
+    "Peritonitis": [12],
+    "Mastitis": [13],
+    "Pneumonia": [9],
+    "Traumatic Reticuloperitonitis": [11],
+    "Nothing": []    
+}
+
+lookup_eight = {
+    "Difficult calving": [1],
+    "Uterus problems": [2,4,7],
+    "Hypocalcemia and Ketosis": [3,8],
+    "Intestine problems": [5,6,10],
+    "Mastitis": [13],
+    "Pneumonia": [9],
+    "Peritonitis": [11, 12],
+    "Nothing": []
+}
+
+lookup_seven = {
+    "Calving problems": [1,2,3,8],
+    "Uterus problems": [2,4,7],
+    "Mastitis": [13],
+    "Intestine problems": [5,6,10],
+    "Peritonitis": [11, 12],
+    "Pneumonia": [9],
+    "Nothing": []
+}
