@@ -51,34 +51,46 @@ class Translate:
         5: [300, 600, 1200]
     }
         
-    def __init__(self, dataframe, n=2, features = 600, algorithm="SGD", target="en"):
+    def __init__(self, dataframe, n=2, features = 600, algorithm="SGD", target="en", text_column = "Comments"):
         self.n = n
         self.features = features 
         self.algorithm = "naive"
         self.target = "en"
+        self.text_column = "Comments"
         if not self.check_feature_ngram():
             print("Wrong parameter settings")
             return
         self.load_detect_algorithm()
-        detectFunc = F.udf(self.detect_language, StringType())
-        dataframe = dataframe.withColumn("language", detectFunc("Comment"))
-        correctFunc = F.udf(self.correct_comment, StringType())
-        dataframe = dataframe.withColumn("corrected", correctFunc("Comment", "language"))
-        translateFunc = F.udf(self.get_translation, StringType())
-        dataframe = dataframe.withColumn("translated", translateFunc("corrected", "language"))
+        dataframe = self.detect_languages(dataframe)
+        dataframe = self.correct_spelling(dataframe)
+        #dataframe = self.translate(dataframe)
         self.dataframe = dataframe.select(
-            "AnimalId",
-            'Date', 
-            (col("translated")).alias('Comment')
+            (col("corrected")).alias(self.text_column)
         )
+        self.dataframe.show()
     
     def get_dataframe(self):
         return self.dataframe
     
-    def get_languages(self):
+    def translate(self, dataframe):
+        translateFunc = F.udf(self.get_translation, StringType())
+        dataframe = dataframe.withColumn("translated", translateFunc("corrected", "language"))
+        return dataframe
+    
+    def correct_spelling(self, dataframe):
+        correctFunc = F.udf(self.correct_comment, StringType())
+        dataframe = dataframe.withColumn("corrected", correctFunc(self.text_column, "language"))
+        return dataframe
+    
+    def get_languages(self, dataframe):
         detectFunc = F.udf(self.detect_language, StringType())
-        dataframe = self.dataframe
-        dataframe = dataframe.withColumn("language", detectFunc("Comment"))
+        dataframe = dataframe.withColumn("language", detectFunc(self.text_column))
+        return dataframe
+        
+    def detect_languages(self, dataframe):
+        detectFunc = F.udf(self.detect_language, StringType())
+        dataframe = dataframe.withColumn("language", detectFunc(self.text_column))
+        return dataframe
     
     def check_feature_ngram(self):
         if self.features in self.gram_feature_combinations[self.n]:
@@ -104,21 +116,23 @@ class Translate:
     
     def get_features(self, grams):
         to_return = {}
-        for gram in grams:
-            found = False
-            for sen in self.featureset:
-                if gram == sen:
-                    found = True
-                    to_return[gram] = True
-            if not found:
-                to_return[gram] = False
+        if isinstance(grams, list):
+            for gram in grams:
+                found = False
+                for sen in self.featureset:
+                    if gram == sen:
+                        found = True
+                        to_return[gram] = True
+                if not found:
+                    to_return[gram] = False
         return to_return
     
     def preprocess(self, line):
-        line = " ".join(line.split()[0:])
-        line = line.lower()
-        line = re.sub(r"\d+", "", line)
-        line = line.translate(str.maketrans('', '', string.punctuation))
+        if line != "" and line is not None:
+            line = " ".join(line.split()[0:])
+            line = line.lower()
+            line = re.sub(r"\d+", "", line)
+            line = line.translate(str.maketrans('', '', string.punctuation))
         return line
 
     def get_ngrams(self, line):
