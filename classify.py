@@ -31,9 +31,12 @@ class Classification:
     
     def get_classification(self):
         pass
+    
+    def get_dataframe(self):
+        return self.dataframe
         
         
-class UnsupervisedClassification(Classification):
+class LDAClassification(Classification):
     base_path = os.getcwd() + "\\models\\unsupervised\\"
     
     possible_topics = set([7,8,9,11,13])
@@ -48,7 +51,7 @@ class UnsupervisedClassification(Classification):
         dataframe, self.lookup, self.topics, self.passes, self.decay, self.iterations, self.min_probability, self.text_column = self.check_input(dataframe, lookup, topics, passes, decay, iterations, min_probability, text_column)
         self.load_model()
         dataframe = self.classify(dataframe)
-        dataframe.show()
+        self.dataframe = dataframe
     
     def get_classification(self, comment):
         to_return = []
@@ -95,7 +98,7 @@ class UnsupervisedClassification(Classification):
             self.dictionary = pickle.load(f)
             
             
-class SupervisedClassification(Classification):
+class LLDAClassification(Classification):
     base_path = os.getcwd() + "\\models\\supervised\\llda-"
     
     def __init__(self, dataframe, lookup, topics=7, passes=250, min_probability=0.2, text_column="Comments"):
@@ -103,7 +106,7 @@ class SupervisedClassification(Classification):
         dataframe, self.lookup, self.topics, self.passes, self.min_probability, self.text_column = self.check_input(dataframe, lookup, topics, passes, min_probability, text_column)
         self.load_models()
         dataframe = self.classify(dataframe)
-        dataframe.show()
+        self.dataframe = dataframe
     
     def get_classification(self, comment):
         to_return = []
@@ -147,7 +150,7 @@ class ClassicalClassification(Classification):
         dataframe, self.lookup, self.topics, self.classifier_type, self.n_grams, self.features, self.text_column = self.check_input(dataframe, lookup, classifier_type, topics, n_grams, features, text_column)
         self.load_models()
         dataframe = self.classify(dataframe)
-        dataframe.show()
+        self.dataframe = dataframe
     
     def get_ngrams(self, comment):
         if int(self.n_grams) == 1:

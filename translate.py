@@ -46,12 +46,12 @@ class Translate:
     gram_feature_combinations = {
         1: [300],
         2: [300, 600, 1200, 2000],
-        3: [300, 600, 1200, 3000],
+        3: [300, 600, 1200, 2000],
         4: [300, 600, 1200, 2000],
         5: [300, 600, 1200]
     }
         
-    def __init__(self, dataframe, n=2, features = 600, algorithm="SGD", target="en", text_column = "Comments"):
+    def __init__(self, dataframe, n=3, features = 2000, algorithm="SGD", target="en", text_column = "Comments"):
         self.n = n
         self.features = features 
         self.algorithm = "naive"
@@ -64,13 +64,17 @@ class Translate:
         dataframe = self.detect_languages(dataframe)
         dataframe = self.correct_spelling(dataframe)
         #dataframe = self.translate(dataframe)
-        self.dataframe = dataframe.select(
-            (col("corrected")).alias(self.text_column)
-        )
-        self.dataframe.show()
+        self.dataframe = dataframe
     
     def get_dataframe(self):
-        return self.dataframe
+        return self.dataframe.select(
+            (col("corrected")).alias(self.text_column)
+        )
+    
+    def get_english(self):
+        return self.dataframe.where(self.dataframe.language == "English").select(
+            (col("corrected")).alias(self.text_column)
+        )
     
     def translate(self, dataframe):
         translateFunc = F.udf(self.get_translation, StringType())
@@ -80,11 +84,6 @@ class Translate:
     def correct_spelling(self, dataframe):
         correctFunc = F.udf(self.correct_comment, StringType())
         dataframe = dataframe.withColumn("corrected", correctFunc(self.text_column, "language"))
-        return dataframe
-    
-    def get_languages(self, dataframe):
-        detectFunc = F.udf(self.detect_language, StringType())
-        dataframe = dataframe.withColumn("language", detectFunc(self.text_column))
         return dataframe
         
     def detect_languages(self, dataframe):
@@ -137,7 +136,10 @@ class Translate:
 
     def get_ngrams(self, line):
         detected_ngrams = nltk.ngrams(line, self.n)
-        return detected_ngrams
+        try:
+            return list(detected_ngrams)
+        except:
+            return []
 
     def create_ngram_features(self, line):
         ngrams = dict()

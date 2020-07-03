@@ -228,7 +228,6 @@ class Preprocess:
                 return True
             
         return False
-        
     
     def split_integer_digit_string(self, comment):
         return ' '.join(re.split('(\d+)', comment))
