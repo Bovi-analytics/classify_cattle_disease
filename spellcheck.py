@@ -6,11 +6,12 @@ class Spellcheck:
     sym_spell = SymSpell(2, 7)
       
     def correct_sentence(self, sentence):
+        sentence = sentence.lower()
         return self.sym_spell.word_segmentation(sentence).corrected_string  
 
 class EnglishSpellCheck(Spellcheck):
     def __init__(self):
-        if not self.sym_spell.create_dictionary("symspell/frequency_dictionary_en_82_765.txt"):
+        if not self.sym_spell.create_dictionary("symspell/en_50k.txt"):
             print("English corpus file not found")
             return
 

@@ -1,4 +1,4 @@
-you 28787591
+fï»¿you 28787591
 i 27086011
 the 22761659
 to 17099834
@@ -2004,6 +2004,7 @@ kexxtone 23200
 calcium 23200
 bolus 23200
 dinolytic 23200
+ampiclox 23200
 lodevil 23200
 glucose 23200
 dextrose 23200
@@ -5070,7 +5071,7 @@ established 6899
 attempted 6898
 zombie 6895
 generations 6895
-yöu 6891
+yÃ¶u 6891
 gathering 6886
 warriors 6885
 mick 6882
@@ -6559,7 +6560,7 @@ inevitable 4826
 tick 4825
 rival 4823
 refuses 4820
-fiancé 4819
+fiancÃ© 4819
 purchase 4819
 wander 4819
 ireland 4818
@@ -6579,7 +6580,7 @@ accusing 4803
 buzzes 4803
 weekends 4803
 humiliated 4801
-fiancée 4800
+fiancÃ©e 4800
 hissing 4800
 treats 4799
 granddaughter 4799
@@ -6765,7 +6766,7 @@ monty 4609
 roosevelt 4608
 missy 4608
 fitting 4606
-señor 4605
+seÃ±or 4605
 tuna 4605
 tuck 4605
 inspection 4604
@@ -7298,7 +7299,7 @@ attraction 4102
 franco 4101
 courts 4100
 fortress 4100
-café 4099
+cafÃ© 4099
 peel 4097
 petrol 4096
 disappears 4096
@@ -8793,7 +8794,7 @@ gerard 3086
 packs 3086
 parlor 3085
 cabbage 3085
-josé 3084
+josÃ© 3084
 intruder 3084
 considerable 3083
 argued 3083
@@ -9000,7 +9001,7 @@ printing 2975
 yuck 2975
 shorty 2975
 extract 2973
-nköö 2973
+nkÃ¶Ã¶ 2973
 you-you 2972
 prostitutes 2971
 cherish 2971
@@ -10607,7 +10608,7 @@ huang 2293
 politically 2293
 pratt 2293
 whoosh 2293
-françois 2292
+franÃ§ois 2292
 ds 2292
 wiser 2292
 rejection 2292
@@ -10661,7 +10662,7 @@ considerate 2280
 sovereign 2279
 pas 2279
 voicemail 2279
-é 2279
+Ã© 2279
 cadet 2278
 clarify 2277
 immature 2277
@@ -10733,7 +10734,7 @@ fleeing 2254
 genie 2254
 dakota 2253
 witchcraft 2252
-sí 2252
+sÃ­ 2252
 archives 2252
 trance 2252
 symphony 2251
@@ -11291,7 +11292,7 @@ preview 2072
 jinx 2072
 immortality 2072
 recruits 2072
-andré 2072
+andrÃ© 2072
 ditched 2072
 tempt 2072
 procession 2072
@@ -12258,7 +12259,7 @@ navigation 1832
 joins 1832
 intrigued 1831
 harp 1831
-führer 1831
+fÃ¼hrer 1831
 margin 1831
 everett 1831
 anthem 1831
@@ -12947,7 +12948,7 @@ nets 1674
 hangar 1674
 godmother 1674
 empty-handed 1673
-sátur 1673
+sÃ¡tur 1673
 forum 1673
 joys 1673
 foolishness 1673
@@ -14547,7 +14548,7 @@ achilles 1396
 overload 1395
 topanga 1395
 piercing 1395
-cliché 1394
+clichÃ© 1394
 stamped 1394
 potent 1394
 bristol 1394
@@ -14561,7 +14562,7 @@ crocodiles 1394
 coupons 1393
 culinary 1393
 mahjong 1393
-rené 1392
+renÃ© 1392
 fleur 1392
 niko 1392
 lira 1392
@@ -14641,7 +14642,7 @@ desirable 1381
 barriers 1381
 hoops 1381
 grains 1381
-maría 1381
+marÃ­a 1381
 u. 1381
 considerably 1380
 anand 1379
@@ -15337,7 +15338,7 @@ scanned 1282
 mow 1282
 whiskers 1282
 tourism 1281
-yöur 1281
+yÃ¶ur 1281
 listeners 1281
 rebirth 1281
 predicament 1281
@@ -15932,7 +15933,7 @@ saxon 1207
 enchanting 1207
 sleazy 1207
 abner 1207
-voilà 1207
+voilÃ  1207
 26th 1206
 upsets 1206
 imaging 1206
@@ -16611,7 +16612,7 @@ rabid 1128
 cackles 1128
 kiddies 1128
 lovable 1128
-señora 1128
+seÃ±ora 1128
 termination 1128
 coy 1128
 eyelids 1127
@@ -17559,7 +17560,7 @@ translating 1028
 chemotherapy 1028
 hazardous 1028
 taelon 1028
-qué 1028
+quÃ© 1028
 hackers 1028
 pancho 1028
 asteroids 1028
@@ -17660,7 +17661,7 @@ deity 1019
 quebec 1019
 unni 1019
 jailed 1019
-pokémon 1019
+pokÃ©mon 1019
 attain 1019
 distributor 1019
 hype 1019
@@ -17739,7 +17740,7 @@ taxis 1011
 consecutive 1011
 untouchable 1011
 trough 1011
-señorita 1011
+seÃ±orita 1011
 nisha 1011
 wither 1011
 pew 1011
@@ -17763,7 +17764,7 @@ tendencies 1009
 rodent 1009
 soaring 1009
 bolton 1008
-résumé 1008
+rÃ©sumÃ© 1008
 commits 1008
 measles 1008
 schwartz 1008
@@ -18323,7 +18324,7 @@ ditto 959
 likelihood 959
 archaeological 959
 coastline 958
-não 958
+nÃ£o 958
 't. 958
 nestor 958
 javi 958
@@ -19636,7 +19637,7 @@ retract 856
 flowed 856
 k9 856
 compression 856
-doña 856
+doÃ±a 856
 demolish 855
 prodigal 855
 generously 855
@@ -19678,7 +19679,7 @@ cardassian 852
 clanks 852
 renewal 852
 y-yes 852
-são 852
+sÃ£o 852
 shocker 851
 spectacles 851
 interval 851
@@ -20222,7 +20223,7 @@ ucla 811
 little- 811
 bengal 810
 cache 810
-ramón 810
+ramÃ³n 810
 lifeboat 810
 daeso 810
 creme 810
@@ -20399,7 +20400,7 @@ rosita 801
 granting 800
 hindus 800
 gills 800
-olé 800
+olÃ© 800
 puyo 800
 sos 800
 edwina 800
@@ -20774,7 +20775,7 @@ transgender 776
 lofty 776
 sequences 776
 nance 776
-touché 776
+touchÃ© 776
 addy 776
 tulips 776
 illustrated 776
@@ -20798,7 +20799,7 @@ unpunished 774
 displaced 774
 andersen 774
 bowen 774
-joão 774
+joÃ£o 774
 mi5 774
 thundering 774
 semi 774
@@ -20949,7 +20950,7 @@ surfaced 764
 gibraltar 764
 cuckold 764
 y-yeah 764
-renée 764
+renÃ©e 764
 uneven 764
 reopened 763
 blip 763
@@ -20991,7 +20992,7 @@ supermodel 761
 pollock 761
 calmer 761
 chestnuts 761
-hélène 761
+hÃ©lÃ¨ne 761
 parsley 761
 thought- 761
 overgrown 761
@@ -21288,7 +21289,7 @@ berman 742
 hakeem 742
 framework 742
 kan 742
-fräulein 742
+frÃ¤ulein 742
 attackers 742
 prenup 742
 orphaned 742
@@ -21301,7 +21302,7 @@ ramiro 742
 woulda 742
 attenborough 742
 mortified 742
-gérard 742
+gÃ©rard 742
 bitcoin 742
 crusoe 742
 axes 741
@@ -21602,7 +21603,7 @@ shards 724
 shenanigans 724
 std 724
 rhythmically 724
-françoise 724
+franÃ§oise 724
 ronaldo 724
 hbo 724
 atticus 724
@@ -21645,7 +21646,7 @@ mccartney 722
 manga 722
 housed 722
 doghouse 722
-césar 722
+cÃ©sar 722
 milhouse 722
 anchovies 722
 ny 722
@@ -21970,7 +21971,7 @@ devise 704
 triplets 704
 navarro 704
 humbled 704
-está 703
+estÃ¡ 703
 cabo 703
 pacino 703
 asians 703
@@ -22260,7 +22261,7 @@ dory 689
 hewitt 689
 chink 689
 psychics 689
-ça 689
+Ã§a 689
 decorative 689
 karla 689
 geraldine 689
@@ -23227,7 +23228,7 @@ rant 639
 dainty 639
 daley 639
 trask 639
-martín 639
+martÃ­n 639
 chop-chop 639
 worshipping 639
 rarest 639
@@ -23480,7 +23481,7 @@ c-section 628
 constituents 628
 renal 628
 topside 628
-beyoncé 628
+beyoncÃ© 628
 contingent 628
 vane 628
 u-boat 628
@@ -23649,7 +23650,7 @@ rallies 621
 rouse 621
 luckier 621
 hildy 621
-attaché 620
+attachÃ© 620
 citation 620
 handsomely 620
 faceless 620
@@ -23670,7 +23671,7 @@ hatter 620
 fraudulent 620
 grange 620
 ?n 620
-andrés 620
+andrÃ©s 620
 minh 620
 laceration 620
 venison 620
@@ -23700,7 +23701,7 @@ deliverance 618
 intellectually 618
 noooo 618
 creamed 618
-appétit 618
+appÃ©tit 618
 unwelcome 618
 piracy 618
 wal-mart 618
@@ -24261,7 +24262,7 @@ rumba 594
 hilt 594
 minna 594
 norse 594
-pelé 594
+pelÃ© 594
 lib 594
 luxembourg 594
 athos 594
@@ -24634,7 +24635,7 @@ sumner 579
 lurcio 579
 runaways 579
 elemental 579
-séance 579
+sÃ©ance 579
 terrier 579
 chiana 579
 mothership 579
@@ -24820,7 +24821,7 @@ zoning 572
 great-grandmother 572
 we`ll 572
 bracket 572
-nuño 572
+nuÃ±o 572
 scrappy 572
 decorum 572
 childress 572
@@ -24864,7 +24865,7 @@ pester 570
 backdrop 570
 optics 570
 bff 570
-müller 570
+mÃ¼ller 570
 counters 570
 statutory 570
 deport 570
@@ -24882,7 +24883,7 @@ mastery 569
 marci 569
 feasible 569
 gospels 569
-clément 569
+clÃ©ment 569
 sixties 569
 drastically 569
 flourished 569
@@ -25011,7 +25012,7 @@ instructors 565
 burritos 565
 thereof 565
 drat 565
-lleó 565
+lleÃ³ 565
 yagyu 565
 protestors 564
 lode 564
@@ -25580,7 +25581,7 @@ knobs 543
 artificially 543
 athletics 543
 schoolwork 543
-hürrem 543
+hÃ¼rrem 543
 faux 543
 copped 543
 gecko 543
@@ -25627,7 +25628,7 @@ prentice 541
 sg-1 541
 pajama 541
 informative 541
-protégé 541
+protÃ©gÃ© 541
 nice-looking 541
 suave 541
 badminton 541
@@ -26147,7 +26148,7 @@ anklet 524
 hoskins 524
 expressive 524
 singled 524
-zé 524
+zÃ© 524
 employing 524
 migrate 524
 sass 524
@@ -26273,7 +26274,7 @@ succubus 520
 seatbelts 520
 rotary 519
 maxime 519
-château 519
+chÃ¢teau 519
 mirza 519
 huddled 519
 t-rex 519
@@ -26627,7 +26628,7 @@ unjustly 507
 turds 507
 awkwardly 507
 dispensary 507
-julián 507
+juliÃ¡n 507
 demonstrators 507
 catdog 507
 lock-up 507
@@ -26636,7 +26637,7 @@ clung 506
 extracurricular 506
 renovating 506
 cyst 506
-soufflé 506
+soufflÃ© 506
 perchance 506
 abbs 506
 illustrations 506
@@ -26665,7 +26666,7 @@ dynamo 505
 jarrod 505
 sponsorship 505
 familiarity 505
-piñata 505
+piÃ±ata 505
 hakim 505
 bogged 505
 boudoir 505
@@ -26696,7 +26697,7 @@ publications 504
 self-help 504
 druids 504
 pedicure 504
-déjà 504
+dÃ©jÃ  504
 pym 504
 apophis 504
 falcone 504
@@ -26725,7 +26726,7 @@ kinetic 503
 turnips 503
 foothold 503
 chlamydia 503
-crème 503
+crÃ¨me 503
 fifties 503
 krystal 503
 ashby 503
@@ -26831,7 +26832,7 @@ battalions 500
 motorcade 500
 kelley 500
 beaks 500
-tomás 500
+tomÃ¡s 500
 t-minus 500
 sleek 500
 vividly 500
@@ -27156,7 +27157,7 @@ ied 490
 estrogen 490
 severide 490
 guilders 490
-jørgen 490
+jÃ¸rgen 490
 yoshio 490
 vermouth 490
 obeys 490
@@ -27177,11 +27178,11 @@ gnawing 489
 economist 489
 brung 489
 ohm 489
-jesús 489
+jesÃºs 489
 tractors 489
 gohan 489
 emp 489
-adiós 489
+adiÃ³s 489
 arduous 489
 consortium 489
 starred 489
@@ -27837,7 +27838,7 @@ tron 469
 we--we 469
 serviced 469
 cayenne 469
-você 469
+vocÃª 469
 impossibility 469
 petri 469
 vigorously 469
@@ -29208,7 +29209,7 @@ isi 431
 translators 431
 mancini 431
 statistic 431
-léon 431
+lÃ©on 431
 resync 431
 byzantine 431
 predicts 431
@@ -29474,7 +29475,7 @@ whaling 424
 foiled 424
 vectors 424
 mckinney 424
-thérèse 424
+thÃ©rÃ¨se 424
 slowest 424
 decoded 424
 turbines 424
@@ -29696,7 +29697,7 @@ kind-hearted 418
 blasphemous 418
 bolivian 418
 ex-wives 418
-hervé 418
+hervÃ© 418
 blur1 418
 preachers 418
 excessively 418
@@ -29968,7 +29969,7 @@ distributors 411
 windpipe 411
 run-of-the-mill 411
 kurdish 411
-clichés 411
+clichÃ©s 411
 plowed 411
 jeanine 411
 intents 411
@@ -30083,7 +30084,7 @@ captors 408
 babbles 408
 arabella 408
 labors 408
-cécile 408
+cÃ©cile 408
 falafel 408
 winces 408
 christoph 408
@@ -30324,7 +30325,7 @@ wieners 402
 arr 402
 torchwood 402
 dokey 402
-très 402
+trÃ¨s 402
 y?? 402
 contentment 402
 ventricle 402
@@ -30481,7 +30482,7 @@ right-o 399
 numbness 399
 danville 399
 eton 399
-süleyman 399
+sÃ¼leyman 399
 annoyance 399
 wildcats 399
 mok 399
@@ -31782,7 +31783,7 @@ argentinean 370
 skirmish 370
 specialties 370
 deep-fried 370
-lópez 370
+lÃ³pez 370
 ela 370
 billion-dollar 370
 holiest 370
@@ -32266,7 +32267,7 @@ yumiko 360
 boozer 360
 flounder 360
 motorbikes 360
-félix 360
+fÃ©lix 360
 tae-sung 360
 munson 360
 enact 360
@@ -32524,7 +32525,7 @@ malin 355
 keene 355
 tutors 355
 'el 355
-raúl 355
+raÃºl 355
 e-mailing 355
 copacabana 355
 routing 355
@@ -32687,7 +32688,7 @@ laid-back 352
 morita 352
 elia 352
 alvarado 351
-pâté 351
+pÃ¢tÃ© 351
 mikkel 351
 drive-through 351
 workroom 351
@@ -32777,7 +32778,7 @@ alteration 350
 unzips 350
 anthill 350
 embody 350
-stéphane 350
+stÃ©phane 350
 bulldogs 350
 retailers 350
 uncivilized 350
@@ -33084,7 +33085,7 @@ beelzebub 344
 baggins 344
 fifty-five 344
 cleve 344
-hernán 344
+hernÃ¡n 344
 archipelago 344
 sc 344
 piercings 344
@@ -33279,7 +33280,7 @@ trimmings 340
 enamel 340
 mcclellan 340
 deniability 340
-aquí 340
+aquÃ­ 340
 differs 340
 kabuki 340
 suzi 340
@@ -33294,7 +33295,7 @@ eczema 340
 masala 340
 towne 340
 murakami 340
-sébastien 340
+sÃ©bastien 340
 bloodied 340
 frigate 339
 predominantly 339
@@ -33559,7 +33560,7 @@ boogers 335
 cagey 335
 fat-ass 335
 maddening 335
-luís 335
+luÃ­s 335
 decrees 335
 catastrophes 335
 guadalupe 335
@@ -33700,7 +33701,7 @@ birdies 332
 caucus 332
 front-row 332
 launchers 332
-frédéric 332
+frÃ©dÃ©ric 332
 laertes 332
 mullah 332
 richelieu 332
@@ -33765,7 +33766,7 @@ kanto 331
 cathedrals 331
 parent-teacher 331
 nagoya 331
-peña 331
+peÃ±a 331
 bogota 331
 atreides 331
 gd 331
@@ -33841,14 +33842,14 @@ romain 330
 bremen 330
 whipple 330
 platelets 330
-garcía 330
+garcÃ­a 330
 scurry 330
 rota 330
 roared 330
 recipients 330
 beatle 330
 slurred 330
-inglés 330
+inglÃ©s 330
 harmonies 330
 kissy 330
 unearth 330
@@ -33917,7 +33918,7 @@ toner 329
 fcc 329
 runaround 329
 rearranging 329
-là 329
+lÃ  329
 abercrombie 329
 nettie 329
 bubbs 329
@@ -33936,7 +33937,7 @@ gravedigger 328
 marceau 328
 commandeered 328
 italia 328
-inés 328
+inÃ©s 328
 rath 328
 glynn 328
 debtors 328
@@ -34369,7 +34370,7 @@ jabs 321
 chomp 321
 styx 321
 erotica 321
-maréchal 321
+marÃ©chal 321
 interconnected 321
 fedex 321
 thoreau 321
@@ -34397,7 +34398,7 @@ back. 321
 boarder 321
 racially 320
 winkler 320
-ín 320
+Ã­n 320
 sui 320
 anoint 320
 scaling 320
@@ -34416,7 +34417,7 @@ hysterectomy 320
 genovese 320
 scipio 320
 radiate 320
-león 320
+leÃ³n 320
 10-year 320
 grazia 320
 bhaskar 320
@@ -34434,7 +34435,7 @@ consummated 320
 omitted 320
 ceci 320
 abbess 320
-naïve 320
+naÃ¯ve 320
 d-do 320
 this--this 320
 ogres 320
@@ -34514,7 +34515,7 @@ trotting 318
 cornfed 318
 tats 318
 silliness 318
-ángel 318
+Ã¡ngel 318
 contemporaries 318
 brandenburg 318
 aught 318
@@ -34555,7 +34556,7 @@ rahim 318
 crescendo 318
 north-east 318
 leonidas 318
-exposé 318
+exposÃ© 318
 liao 318
 metcalf 318
 meggie 318
@@ -34790,7 +34791,7 @@ tangier 314
 gaspar 314
 dol 314
 blaire 314
-más 314
+mÃ¡s 314
 vos 314
 layoffs 314
 corbyn 314
@@ -35066,7 +35067,7 @@ g-man 309
 alka 309
 b.o.b. 309
 srt 309
-jérôme 309
+jÃ©rÃ´me 309
 bequeathed 309
 ricans 309
 rutger 309
@@ -35244,7 +35245,7 @@ freemasons 306
 co-ed 306
 mountainous 306
 asthmatic 306
-hüseyin 306
+hÃ¼seyin 306
 renown 306
 feel- 306
 playmates 306
@@ -35514,7 +35515,7 @@ fortify 302
 kike 302
 seashells 302
 pharma 302
-léo 302
+lÃ©o 302
 commendatore 302
 nuance 302
 machado 302
@@ -35557,7 +35558,7 @@ sena 301
 fook 301
 maeve 301
 shrivel 301
-chloé 301
+chloÃ© 301
 -it 301
 replicated 301
 slow-motion 301
@@ -35878,7 +35879,7 @@ switchblade 296
 madhav 296
 mie 296
 pasteur 296
-cafés 296
+cafÃ©s 296
 zionist 296
 rodin 296
 voldemort 296
@@ -36365,7 +36366,7 @@ bad-tempered 289
 nts 289
 implicating 289
 pervy 289
-días 289
+dÃ­as 289
 rampart 289
 transfusions 289
 ling-ling 288
@@ -36403,7 +36404,7 @@ swampy 288
 cathcart 288
 grimy 288
 tachy 288
-enchanté 288
+enchantÃ© 288
 amendments 288
 wristband 288
 tui 288
@@ -36476,7 +36477,7 @@ fakir 287
 maigret 287
 keynes 287
 mifflin 287
-totò 287
+totÃ² 287
 yoshino 287
 profiled 287
 anti-depressants 287
@@ -36863,8 +36864,8 @@ g??d 282
 amenable 282
 shek 282
 substitutes 282
-chérie 282
-iâ 282
+chÃ©rie 282
+iÃ¢ 282
 painstaking 282
 decompress 282
 unauthorised 282
@@ -37071,7 +37072,7 @@ gazpacho 279
 derry 279
 s.o.b. 278
 preliminaries 278
-céline 278
+cÃ©line 278
 arer 278
 lovelace 278
 repossessed 278
@@ -37135,7 +37136,7 @@ danzig 278
 inflexible 278
 35-year-old 278
 moneybags 277
-nuñez 277
+nuÃ±ez 277
 syntax 277
 unbeknownst 277
 round-the-clock 277
@@ -37251,7 +37252,7 @@ scalding 276
 wielded 276
 kenzo 276
 commercially 276
-bjørn 276
+bjÃ¸rn 276
 frills 276
 poochie 276
 bicep 276
@@ -37450,7 +37451,7 @@ peregrine 274
 meier 274
 diversify 274
 houseman 274
-ís 274
+Ã­s 274
 ope 274
 dickey 274
 mutilate 274
@@ -37543,7 +37544,7 @@ cranny 273
 mansour 273
 windbag 273
 case- 272
-iván 272
+ivÃ¡n 272
 stockwell 272
 a-one 272
 interpretations 272
@@ -37624,7 +37625,7 @@ oa 271
 baruch 271
 mortally 271
 balling 271
-cómo 271
+cÃ³mo 271
 inaugurate 271
 cortical 271
 suds 271
@@ -37632,7 +37633,7 @@ daya 271
 downsizing 271
 hibernating 271
 mello 271
-ít 271
+Ã­t 271
 juggernaut 271
 permissible 271
 intently 271
@@ -37720,7 +37721,7 @@ primaries 270
 egomaniac 270
 prancer 270
 indisputable 270
-ûóãóúéìòµóãí 270
+Ã»Ã³Ã£Ã³ÃºÃ©Ã¬Ã²ÂµÃ³Ã£Ã­ 270
 derives 270
 overwrought 270
 pont 270
@@ -37756,7 +37757,7 @@ aleck 270
 catalogued 270
 pindar 270
 hobos 270
-théo 270
+thÃ©o 270
 positives 270
 s-sorry 270
 notarized 270
@@ -38238,7 +38239,7 @@ vitya 264
 pernille 264
 marseillaise 264
 pocketed 264
-amélie 264
+amÃ©lie 264
 brexit 264
 staining 264
 rashad 264
@@ -38275,7 +38276,7 @@ pawnbroker 263
 flighty 263
 hesitates 263
 sheraton 263
-göring 263
+gÃ¶ring 263
 ueo 263
 show-and-tell 263
 phu 263
@@ -38320,7 +38321,7 @@ portraying 263
 conductors 263
 tax-free 263
 brezhnev 263
-plaît 263
+plaÃ®t 263
 everton 263
 heirlooms 263
 malle 263
@@ -38362,7 +38363,7 @@ svr 262
 chaperones 262
 undeniably 262
 bruh 262
-sì 262
+sÃ¬ 262
 uprooted 262
 lees 262
 vuk 262
@@ -38459,7 +38460,7 @@ suss 261
 doting 261
 misato 261
 jiggling 261
-çetin 261
+Ã§etin 261
 christensen 261
 rotated 261
 appendectomy 261
@@ -38535,7 +38536,7 @@ blt 260
 imbued 260
 firmament 260
 ray-ray 260
-lucía 260
+lucÃ­a 260
 developmental 260
 gamboa 260
 napoli 260
@@ -38647,7 +38648,7 @@ frampton 259
 fleabag 259
 shal 259
 petitioned 259
-malmö 259
+malmÃ¶ 259
 archdiocese 259
 grunge 259
 hereford 259
@@ -38828,7 +38829,7 @@ fulfills 256
 off-site 256
 cafferty 256
 recuse 256
-öèëid 256
+Ã¶Ã¨Ã«id 256
 abacus 256
 unsubstantiated 256
 tivoli 256
@@ -39159,7 +39160,7 @@ mahalo 252
 kjeld 252
 vinicius 252
 clanton 252
-vámonos 252
+vÃ¡monos 252
 julienne 252
 majoring 252
 stamford 252
@@ -39193,7 +39194,7 @@ hunahpu 252
 euclid 252
 reassignment 252
 supercharged 252
-yoú 252
+yoÃº 252
 ochoa 252
 antioch 252
 sirena 252
@@ -39786,7 +39787,7 @@ eases 244
 knighted 244
 2am 244
 paradis 244
-antônio 244
+antÃ´nio 244
 ultrasonic 244
 indemnity 244
 guano 244
@@ -39886,7 +39887,7 @@ ballerinas 243
 paley 243
 balaclava 243
 haruna 243
-communiqué 243
+communiquÃ© 243
 misogynist 243
 maninder 243
 lingered 243
@@ -39953,7 +39954,7 @@ buckwheat 243
 relent 243
 raze 243
 5am 243
-rémi 243
+rÃ©mi 243
 rrr 243
 half-past 242
 usurper 242
@@ -39969,7 +39970,7 @@ stockman 242
 resonates 242
 beset 242
 gresham 242
-zoë 242
+zoÃ« 242
 kraus 242
 kanna 242
 huntin 242
@@ -40034,7 +40035,7 @@ drei 242
 gabbing 242
 high-priced 242
 examiners 242
-juárez 242
+juÃ¡rez 242
 stickin 242
 pawan 242
 chiyo 242
@@ -40116,7 +40117,7 @@ elon 241
 strum 241
 whistle-blower 241
 chesterfield 241
-maître 241
+maÃ®tre 241
 scowl 241
 chancellery 241
 marcelle 241
@@ -40225,7 +40226,7 @@ hephaestus 240
 blighter 240
 outrank 240
 porque 240
-perón 240
+perÃ³n 240
 eenie 240
 maga 240
 pokes 240
@@ -40559,7 +40560,7 @@ bended 236
 anglican 236
 hippocampus 236
 iadc 236
-estás 236
+estÃ¡s 236
 ethnicity 236
 ceren 236
 decryption 236
@@ -40679,7 +40680,7 @@ kazon 235
 hayama 235
 odors 235
 zaara 235
-saké 235
+sakÃ© 235
 consultations 235
 grindstone 235
 extorting 235
@@ -40844,7 +40845,7 @@ hoo-ha 233
 shinbei 233
 toe-to-toe 233
 claro 233
-benoît 233
+benoÃ®t 233
 demure 233
 hic 233
 complacency 233
@@ -40918,7 +40919,7 @@ ruslan 232
 athelstan 232
 scopes 232
 thinly 232
-fantômas 232
+fantÃ´mas 232
 kon 232
 ystad 232
 know.i 232
@@ -41042,7 +41043,7 @@ self-indulgent 231
 retracted 231
 bacardi 231
 rubicon 231
-rosé 231
+rosÃ© 231
 dishonoured 231
 leukaemia 231
 headboard 231
@@ -41355,7 +41356,7 @@ eurovision 227
 slobber 227
 duchy 227
 overcrowding 227
-español 227
+espaÃ±ol 227
 borgias 227
 haram 227
 orchestrate 227
@@ -41412,7 +41413,7 @@ spenser 226
 jelena 226
 mastercard 226
 claremont 226
-agnès 226
+agnÃ¨s 226
 shell-shocked 226
 patronise 226
 naylor 226
@@ -41455,7 +41456,7 @@ woodsen 226
 multimillionaire 226
 obscenities 226
 withstood 226
-göran 226
+gÃ¶ran 226
 scavenge 226
 tes 226
 emiliano 226
@@ -41483,7 +41484,7 @@ concussions 226
 yorktown 226
 luiz 226
 a-a-a 226
-sofía 226
+sofÃ­a 226
 chablis 226
 mayberry 226
 shazia 226
@@ -41671,7 +41672,7 @@ willingham 224
 blithering 224
 agitators 224
 himiko 224
-entrée 224
+entrÃ©e 224
 couldn`t 224
 lynley 224
 unabomber 224
@@ -41680,7 +41681,7 @@ monogram 224
 accords 224
 studious 224
 gilman 224
-itís 224
+itÃ­s 224
 inference 224
 tlak 224
 ellery 224
@@ -41721,7 +41722,7 @@ genres 223
 craddock 223
 unsympathetic 223
 ill-gotten 223
-sã 223
+sÃ£ 223
 bevy 223
 receptions 223
 bardo 223
@@ -41899,7 +41900,7 @@ disputing 222
 demetri 222
 bossa 222
 extracts 222
-krüger 222
+krÃ¼ger 222
 subservient 221
 bellybutton 221
 calderone 221
@@ -41928,14 +41929,14 @@ cooney 221
 gnawed 221
 manami 221
 croquettes 221
-tú 221
+tÃº 221
 glowed 221
 edelweiss 221
 kingship 221
 legible 221
 farnese 221
 papacy 221
-schön 221
+schÃ¶n 221
 flatterer 221
 yvan 221
 -l 221
@@ -41951,7 +41952,7 @@ ehhh 221
 neutralise 221
 beverley 221
 semi-final 221
-sérgio 221
+sÃ©rgio 221
 reviewer 221
 unsubs 221
 shyster 221
@@ -42011,7 +42012,7 @@ involuntarily 221
 gerd 221
 s.w.a.t. 221
 photocopier 221
-léa 221
+lÃ©a 221
 janina 221
 comeon 221
 shrugged 221
@@ -42318,7 +42319,7 @@ part-timer 218
 pontiff 218
 consults 218
 gratuity 218
-jürgen 218
+jÃ¼rgen 218
 fertilization 218
 swearengen 218
 dizer 218
@@ -42505,7 +42506,7 @@ limerick 216
 pel 216
 edmonds 216
 whatsit 216
-søren 216
+sÃ¸ren 216
 railroaded 216
 tangerines 216
 yucatan 216
@@ -42535,7 +42536,7 @@ disappoints 215
 walla 215
 feroz 215
 nopd 215
-agustín 215
+agustÃ­n 215
 aerosmith 215
 trowel 215
 passer-by 215
@@ -42669,7 +42670,7 @@ fornicating 214
 kanin 214
 capp 214
 compresses 214
-piña 214
+piÃ±a 214
 pisser 214
 inevitability 214
 terje 214
@@ -42689,7 +42690,7 @@ hamill 214
 peasy 214
 olde 214
 someting 214
-angèle 214
+angÃ¨le 214
 ecg 214
 kirin 214
 pastel 214
@@ -42716,7 +42717,7 @@ gayest 214
 skinnier 214
 shimla 214
 sukekiyo 214
-düsseldorf 214
+dÃ¼sseldorf 214
 'arcy 214
 jacobsen 214
 nhl 214
@@ -42755,7 +42756,7 @@ arcee 213
 halford 213
 shira 213
 howto 213
-condé 213
+condÃ© 213
 unassuming 213
 embarassed 213
 saira 213
@@ -42831,7 +42832,7 @@ preparatory 213
 jokin 213
 ashland 213
 antidepressant 213
-mañana 213
+maÃ±ana 213
 panchayat 213
 fibula 213
 tabernacle 213
@@ -42843,7 +42844,7 @@ unmitigated 213
 thousandth 213
 kakashi 213
 blackguard 213
-quinceañera 213
+quinceaÃ±era 213
 kens 213
 labeling 213
 remade 212
@@ -42853,7 +42854,7 @@ gilt 212
 guatemalan 212
 perturbed 212
 side-effects 212
-varnæs 212
+varnÃ¦s 212
 peace-loving 212
 shuji 212
 mandalay 212
@@ -43291,7 +43292,7 @@ lmagine 209
 eminently 209
 wimsey 209
 bohm 209
-niño 209
+niÃ±o 209
 martinelli 208
 aesthetically 208
 bahrain 208
@@ -43480,7 +43481,7 @@ surefire 207
 jenga 207
 oversees 207
 musta 207
-håkan 207
+hÃ¥kan 207
 marketed 207
 kriss 207
 sudha 207
@@ -43724,7 +43725,7 @@ fluoride 205
 pussycats 205
 'fraid 205
 accentuate 205
-merlí 205
+merlÃ­ 205
 woolen 205
 anjou 205
 cindi 205
@@ -44041,7 +44042,7 @@ tto 202
 firmness 202
 chema 202
 scuffling 202
-thís 202
+thÃ­s 202
 afterthat 202
 dragoons 202
 multi-million 202
@@ -44068,7 +44069,7 @@ money. 202
 pundit 202
 disinherited 202
 undeveloped 202
-cortés 202
+cortÃ©s 202
 benin 202
 quills 202
 sourced 202
@@ -44259,7 +44260,7 @@ dammed 200
 bozer 200
 cheekbone 200
 gloriously 200
-français 200
+franÃ§ais 200
 natsume 200
 uuh 200
 butterfingers 200
@@ -44517,7 +44518,7 @@ pensacola 198
 brutalized 198
 arsenio 198
 consigned 198
-otávio 198
+otÃ¡vio 198
 nagi 198
 pander 198
 scarran 198
@@ -44543,7 +44544,7 @@ hm-mm 198
 queries 198
 ushered 198
 ammu 198
-béatrice 198
+bÃ©atrice 198
 langly 197
 galya 197
 hangings 197
@@ -44658,7 +44659,7 @@ big- 197
 avalanches 197
 cheatin 197
 divas 197
-mário 197
+mÃ¡rio 197
 polonium 197
 dishonourable 197
 braggart 197
@@ -44678,7 +44679,7 @@ subcutaneous 197
 weird-looking 197
 no.2 197
 muzzy 197
-lumière 197
+lumiÃ¨re 197
 philandering 197
 vigata 197
 littlejohn 197
@@ -44930,7 +44931,7 @@ mucked 194
 basher 194
 dato 194
 carmelita 194
-michèle 194
+michÃ¨le 194
 borat 194
 jurek 194
 westerly 194
@@ -44942,7 +44943,7 @@ materialized 194
 gauthier 194
 hunks 194
 ino 194
-dédé 194
+dÃ©dÃ© 194
 yoshiwara 194
 a.p.b. 194
 scant 194
@@ -45261,7 +45262,7 @@ greengrocer 192
 shamus 192
 jolson 192
 chol 192
-puskás 192
+puskÃ¡s 192
 depletion 192
 impersonated 192
 unos 192
@@ -45285,7 +45286,7 @@ closed-circuit 192
 trespassed 192
 o.g. 192
 panna 192
-jalapeño 192
+jalapeÃ±o 192
 thornfield 192
 posthumously 192
 ices 192
@@ -45314,7 +45315,7 @@ originates 191
 oldham 191
 dimas 191
 footstep 191
-dalí 191
+dalÃ­ 191
 vayu 191
 bigmouth 191
 honeycutt 191
@@ -45365,7 +45366,7 @@ pernod 191
 manohar 191
 reenact 191
 uninterested 191
-rémy 191
+rÃ©my 191
 coattails 191
 warbles 191
 thet 191
@@ -45502,7 +45503,7 @@ unbuttoned 190
 theora 190
 equine 190
 huygens 190
-geneviève 190
+geneviÃ¨ve 190
 falsify 190
 velour 190
 disapproving 190
@@ -45586,7 +45587,7 @@ rescuer 189
 searcher 189
 earmarked 189
 shimon 189
-pétain 189
+pÃ©tain 189
 milestones 189
 straight-a 189
 pop-tarts 189
@@ -45599,7 +45600,7 @@ needlepoint 189
 wyndham 189
 basins 189
 lech 189
-papá 189
+papÃ¡ 189
 shod 189
 counseled 189
 aurelia 189
@@ -45747,7 +45748,7 @@ heis 188
 worldview 188
 motta 188
 quinton 188
-donít 188
+donÃ­t 188
 litigator 188
 baffles 188
 housekeepers 188
@@ -45778,7 +45779,7 @@ altimeter 188
 mired 188
 gendarmerie 188
 parolee 188
-sebastián 188
+sebastiÃ¡n 188
 heng 188
 margrethe 188
 caron 188
@@ -46067,7 +46068,7 @@ raincoats 185
 aggregate 185
 disparaging 185
 course- 185
-adèle 185
+adÃ¨le 185
 specialises 185
 didyou 185
 pro-life 185
@@ -46082,7 +46083,7 @@ strang 185
 ivor 185
 warder 185
 lunged 185
-valérie 185
+valÃ©rie 185
 nuked 185
 auctioning 185
 boxey 185
@@ -46270,7 +46271,7 @@ cept 184
 kathmandu 184
 fibonacci 184
 levelled 184
-señores 184
+seÃ±ores 184
 reclining 184
 floris 184
 overstayed 184
@@ -46571,7 +46572,7 @@ thundercats 182
 impulsively 182
 basia 182
 majorly 182
-bogotá 182
+bogotÃ¡ 182
 himanshu 182
 kow 182
 wmd 182
@@ -46850,7 +46851,7 @@ inari 180
 dibble 180
 eroding 180
 kovach 180
-joaquín 180
+joaquÃ­n 180
 kombat 180
 kirsch 180
 sahiba 180
@@ -46863,7 +46864,7 @@ c.d. 180
 sparkler 180
 sem 180
 khalifa 180
-honoré 180
+honorÃ© 180
 capote 180
 facetime 180
 crozier 180
@@ -47058,7 +47059,7 @@ off. 178
 weenies 178
 gamby 178
 oto 178
-grégoire 178
+grÃ©goire 178
 predates 178
 rebecka 178
 sherm 178
@@ -47086,7 +47087,7 @@ augmented 178
 cersei 178
 bandra 178
 gruelling 178
-passé 178
+passÃ© 178
 wickets 178
 20-something 178
 doktor 178
@@ -47114,7 +47115,7 @@ s0 178
 l??k 178
 vetoed 178
 i.e.d. 178
-zezé 178
+zezÃ© 178
 decorators 178
 endeavours 178
 rhymed 178
@@ -47149,7 +47150,7 @@ onii-chan 178
 recitation 178
 amtrak 178
 cry-baby 178
-álvaro 178
+Ã¡lvaro 178
 discernible 178
 geishas 178
 wpc 178
@@ -47579,7 +47580,7 @@ zosia 175
 defrauded 175
 kojirou 175
 rupali 175
-simón 175
+simÃ³n 175
 thompkins 175
 neighbourhoods 175
 wobbles 175
@@ -47643,7 +47644,7 @@ conk 174
 hahahaha 174
 freak-out 174
 fagan 174
-cézanne 174
+cÃ©zanne 174
 ard 174
 excellently 174
 rosalinda 174
@@ -47856,7 +47857,7 @@ self-important 173
 charlottesville 173
 condenser 173
 lindberg 173
-ménage 173
+mÃ©nage 173
 shephard 173
 redesigned 173
 orkney 173
@@ -47865,7 +47866,7 @@ quietest 173
 adaptability 173
 jut 173
 saber-toothed 173
-capitán 173
+capitÃ¡n 173
 suu 173
 larks 173
 delos 173
@@ -47880,7 +47881,7 @@ coughlin 173
 permanence 173
 ?y 173
 betide 173
-'état 173
+'Ã©tat 173
 shamar 173
 rewinds 173
 bratislava 173
@@ -47999,7 +48000,7 @@ morphing 172
 fermentation 172
 paisa 172
 frits 172
-ángeles 172
+Ã¡ngeles 172
 north-south 172
 plaintive 172
 ophthalmologist 172
@@ -48155,7 +48156,7 @@ tolson 171
 indoctrination 171
 'were 171
 dobbin 171
-irène 171
+irÃ¨ne 171
 quickens 171
 f.d.a. 171
 jamestown 171
@@ -48348,7 +48349,7 @@ pompadour 170
 attendees 170
 tropicana 170
 lakeshore 170
-luísa 170
+luÃ­sa 170
 brantley 170
 babylonians 170
 time-honored 170
@@ -48480,7 +48481,7 @@ heatwave 169
 eye-opener 169
 datsun 169
 edits 169
-rivière 169
+riviÃ¨re 169
 unappealing 169
 skydiver 169
 frivolity 169
@@ -48531,7 +48532,7 @@ manganese 169
 fragrances 169
 mangroves 169
 iku 169
-sánchez 169
+sÃ¡nchez 169
 sarina 169
 ern 169
 sun-hwa 169
@@ -48691,7 +48692,7 @@ marigny 167
 scoping 167
 anbu 167
 antagonism 167
-sebastião 167
+sebastiÃ£o 167
 ranged 167
 copyrighted 167
 hittite 167
@@ -48811,7 +48812,7 @@ deputized 167
 ob-gyn 167
 deandre 167
 excepted 167
-résistance 167
+rÃ©sistance 167
 pliny 167
 iow 167
 desna 167
@@ -48849,7 +48850,7 @@ handoff 166
 zamboni 166
 mcrae 166
 conjures 166
-rýza 166
+rÃ½za 166
 time-share 166
 parapet 166
 appropriation 166
@@ -49026,7 +49027,7 @@ talismans 165
 seasickness 165
 volm 165
 tempts 165
-orléans 165
+orlÃ©ans 165
 kagami 165
 jarle 165
 proctologist 165
@@ -49102,7 +49103,7 @@ humoring 165
 baddies 165
 giblets 165
 vorenus 165
-paté 165
+patÃ© 165
 deandra 165
 vanities 165
 kalashnikov 165
@@ -49353,7 +49354,7 @@ schon 163
 impeccably 163
 incapacitate 163
 sacrosanct 163
-émile 163
+Ã©mile 163
 spork 163
 crasher 163
 topsoil 163
@@ -49401,9 +49402,9 @@ caroll 163
 carbury 163
 pop-tart 163
 vert 163
-brasília 163
+brasÃ­lia 163
 sawa 163
-sautéed 163
+sautÃ©ed 163
 inexorable 163
 jollies 163
 hodor 163
@@ -49628,7 +49629,7 @@ small-scale 161
 gales 161
 over. 161
 ipads 161
-korsbæk 161
+korsbÃ¦k 161
 merriman 161
 schizophrenics 161
 fro-yo 161
@@ -49701,7 +49702,7 @@ alai 161
 stipulates 161
 restorative 161
 unzipped 161
-cabrón 161
+cabrÃ³n 161
 slays 161
 darzac 161
 sarkar 161
@@ -49946,9 +49947,9 @@ are--are 159
 fast-moving 159
 basal 159
 okuda 159
-ólafur 159
+Ã³lafur 159
 sated 159
-eylül 159
+eylÃ¼l 159
 aright 159
 unmoved 159
 gored 159

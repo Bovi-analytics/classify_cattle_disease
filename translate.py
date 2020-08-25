@@ -16,8 +16,6 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 from googletrans import Translator
 import spellcheck
-
-
     
 class Translate:
     
@@ -36,11 +34,11 @@ class Translate:
         "English": "en",
         "French": "fr"
     }
-    
+       
     corrector = {
-        'en': spellcheck.EnglishSpellCheck(),
-        'nl': spellcheck.DutchSpellCheck(),
-        'fr': spellcheck.FrenchSpellCheck()
+        'English': spellcheck.EnglishSpellCheck(),
+        'Dutch': spellcheck.DutchSpellCheck(),
+        'French': spellcheck.FrenchSpellCheck()
     }
     
     gram_feature_combinations = {
@@ -51,24 +49,24 @@ class Translate:
         5: [300, 600, 1200]
     }
         
-    def __init__(self, dataframe, n=3, features = 2000, algorithm="SGD", target="en", text_column = "Comments"):
+    def __init__(self, dataframe, n=3, features = 2000, algorithm="lr", target="en", text_column = "Comments"):
         self.n = n
         self.features = features 
-        self.algorithm = "naive"
-        self.target = "en"
-        self.text_column = "Comments"
+        self.algorithm = algorithm
+        self.target = target
+        self.text_column = text_column
         if not self.check_feature_ngram():
             print("Wrong parameter settings")
             return
         self.load_detect_algorithm()
         dataframe = self.detect_languages(dataframe)
         dataframe = self.correct_spelling(dataframe)
-        #dataframe = self.translate(dataframe)
+        dataframe = self.translate(dataframe)
         self.dataframe = dataframe
     
     def get_dataframe(self):
         return self.dataframe.select(
-            (col("corrected")).alias(self.text_column)
+            (col("translated")).alias(self.text_column)
         )
     
     def get_english(self):
@@ -108,10 +106,18 @@ class Translate:
             print("Could not load models")
     
     def detect_language(self, line):
+        original = line
         line = self.preprocess(line)
         ngrams = self.get_ngrams(line)
         features = self.get_features(ngrams)
-        return self.language_detection_algorithm.classify(features)
+        detection = self.language_detection_algorithm.classify(features)
+        if detection == "Dutch":
+            return "Dutch"
+        if detection == "English":
+            return "English"
+        if detection == "French":
+            return "French"
+
     
     def get_features(self, grams):
         to_return = {}
@@ -150,7 +156,7 @@ class Translate:
         return sorted(ngrams.items(), key=lambda item: item[1],reverse=True)
     
     def correct_comment(self, comment, language):
-        return self.corrector[self.translate_switcher[language]].correct_sentence(comment)
+        return self.corrector[language].correct_sentence(comment)
     
     def get_translation(self, comment, language):
         if self.translate_switcher[language] == "en":

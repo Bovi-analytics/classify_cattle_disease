@@ -95,7 +95,7 @@ class Preprocess:
     
     def set_english_words(self):
         self.words = set()
-        with open("symspell/frequency_dictionary_en_82_765.txt") as f:
+        with open("symspell/en_50k.txt") as f:
             for line in f:
                 self.words.add(line.split()[0])
             
